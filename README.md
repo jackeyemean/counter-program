@@ -1,4 +1,4 @@
-This is a simple counter program to familiarize myself with HTML, CSS, and Javascript.
+This is a simple counter program I made to refresh my knowledge of HTML, CSS, and Javascript.
 
 There are three buttons: 
 - Decrease: lowers displayed number by 1
